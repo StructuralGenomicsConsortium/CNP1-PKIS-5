@@ -10,9 +10,9 @@ For answers to all the questions you have, go to the FAQs. If you'd like to cont
 The current scientific status of the project can be seen on the wiki (you can always find the relevant tab above). The current version of the paper is HERE and is a great place to start if you're new to all this.
 
 Some humans involved:
-Professor David Drewry, University of North Carolina Chapel Hill. Original discoverer of the molecule.
-Professor Matthew Todd, University College London and Head of Chemistry Networks at the SGC
-Dr X, Company X, Industry Mentor for the SGC CNP001
+Professor David Drewry, University of North Carolina Chapel Hill. Original discoverer of the molecule  
+Professor Matthew Todd, University College London and Head of Chemistry Networks at the SGC  
+Dr X, Company X, Industry Mentor for the SGC CNP001  
 
 
 
