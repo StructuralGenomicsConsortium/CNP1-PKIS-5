@@ -6,6 +6,8 @@ The molecule at the heart of this project is this one:
 
 <a href="url"><img src="https://github.com/mattodd/SGC_Sandbox/blob/master/PKIS5%20Starting%20Point.png?raw=true" align="centre" height="190" ></a>
 
+The data on this compound, i.e. why it's an important target for synthetic variation, are on the wiki, here. 
+
 We'd like to work with you if you'd like to make molecules like this, share everything you're doing in real time and share samples of the molecules you make. In return SGC scientists will carry out the biological evaluation of the molecules you contribute and will collaborate with you towards papers and research funding.
 
 For answers to all the questions you have, go to the FAQs. If you'd like to contact someone to talk about contributing, then the best thing to do is start an Issue, which is a good way to communicate openly. The Issues describe what currently needs doing. There's also an email address you can use to ask questions (include "PFE-PKIS 5" in the header).
