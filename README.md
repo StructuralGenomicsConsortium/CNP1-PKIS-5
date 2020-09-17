@@ -12,10 +12,11 @@ For answers to all the questions you have, go to the FAQs (link to SGC Networks 
 
 The current scientific status of the project can be seen on the [wiki](https://github.com/mattodd/SGC_Sandbox/wiki) (you can always find the relevant tab above). The current version of the research paper describing this project is [here](https://docs.google.com/document/d/1G9Ybu5IfIEHgj1MTfXzuZN4CTvBU90c-bJXajRnBpxU/edit?usp=sharing) and is a great place to start if you're new to all this.
 
-Some humans involved in this Network:
+Some humans involved in this Network:  
 Professor David Drewry, University of North Carolina Chapel Hill. Original discoverer of the molecule  
 Professor Matthew Todd, University College London and Head of Chemistry Networks at the SGC  
 Dr X, Company X, Industry Mentor for the SGC CNP001  
+Student Network Marshall
 
 
 
