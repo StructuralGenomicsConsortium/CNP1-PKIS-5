@@ -12,7 +12,7 @@ For answers to all the questions you have, go to the FAQs (link to SGC Networks 
 
 If you'd like to contact someone to talk about contributing, then write something in an [Issue](https://github.com/mattodd/SGC_Sandbox/issues) (see the tab above), which is a good way to communicate openly. (Issues describe what currently needs doing and act as a discussion forum - you need a Github account but it's super easy and not spammy. There's also an email address (we need this) you can use to ask questions.
 
-Current scientific status of the project is on the [wiki](https://github.com/mattodd/SGC_Sandbox/wiki) (you can always find the relevant tab above). The current version of the research paper describing this project is [here](https://docs.google.com/document/d/1G9Ybu5IfIEHgj1MTfXzuZN4CTvBU90c-bJXajRnBpxU/edit?usp=sharing) and is a great place to start if you're new to all this.
+Current scientific status of the project is on the [wiki](https://github.com/mattodd/SGC_Sandbox/wiki) (you can always find the relevant tab above). The current version of the research paper describing this project is at [https://tinyurl.com/SGC-CNP1](https://docs.google.com/document/d/1G9Ybu5IfIEHgj1MTfXzuZN4CTvBU90c-bJXajRnBpxU/edit?usp=sharing) and is a great place to start if you're new to all this.
 
 Some humans involved in this CNP:  
 Professor David Drewry, University of North Carolina Chapel Hill. Original discoverer of the molecule  
