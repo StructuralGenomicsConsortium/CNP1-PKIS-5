@@ -1,6 +1,8 @@
 # SGC Chemistry Network Project 1: PFE-PKIS 5
 
-This is the landing page for the [Structural Genomics Consortium](https://www.thesgc.org/) (SGC) Chemistry Networks Project Number 1 (SGC-CNP1). If you'd like to get involved by doing chemistry, and agree to the simple RULES (link to SGC page), you can.
+This is the landing page for the [Structural Genomics Consortium](https://www.thesgc.org/) (SGC) Chemistry Networks Project Number 1 (SGC-CNP1).
+
+The SGC is asking for you to contribute synthetic chemistry. In return, the SGC is offering biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. If this sounds interesting, and you agree to the simple RULES (link to SGC page), you can get started.
 
 The molecule at the heart of this project is this:
 
@@ -15,9 +17,9 @@ If you'd like to contact someone to talk about contributing, then write somethin
 Current scientific status of the project is on the [wiki](https://github.com/mattodd/SGC_Sandbox/wiki) (you can always find the relevant tab above). The current version of the research paper describing this project is at [https://tinyurl.com/SGC-CNP1](https://docs.google.com/document/d/1G9Ybu5IfIEHgj1MTfXzuZN4CTvBU90c-bJXajRnBpxU/edit?usp=sharing) and is a great place to start if you're new to all this.
 
 Some humans involved in this CNP:  
-Professor David Drewry, University of North Carolina Chapel Hill. Original discoverer of the molecule  
-Professor Matthew Todd, University College London and Head of Chemistry Networks at the SGC  
-Dr X, Company X, Industry Mentor for the SGC CNP001  
+Professor David Drewry, University of North Carolina Chapel Hill. Original discoverer of the molecule.  
+Professor Matthew Todd, University College London and Head of Chemistry Networks at the SGC.  
+Dr X, Company X, Industry Mentor for SGC-CNP1  
 XYZ is the "James Murray" Student Coordinator.
 
 
