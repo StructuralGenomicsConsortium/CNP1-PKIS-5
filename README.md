@@ -2,13 +2,15 @@
 
 This is the landing page for the [Structural Genomics Consortium](https://www.thesgc.org/) (SGC) Chemistry Networks Project Number 1 (SGC-CNP1).
 
-The SGC is asking for you to contribute synthetic chemistry. In return, the SGC is offering biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. If this sounds interesting, and you agree to the simple RULES (link to SGC page), you can get started.
+The ask: you contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open.
+
+If this sounds interesting, and you agree to the simple RULES (link to SGC page), you can get started.
 
 The molecule at the heart of this project is this:
 
 <a href="url"><img src="https://github.com/mattodd/SGC_Sandbox/blob/master/PKIS5%20Starting%20Point.png?raw=true" align="centre" height="190" ></a>
 
-Data on this compound, and why it's an important target for synthetic variation, are on the [wiki](https://github.com/StructuralGenomicsConsortium/CNP1-PKIS-5/wiki). 
+For data on this compound, and why it's an important target for synthetic variation, go to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP1-PKIS-5/wiki). 
 
 For answers to all the questions you have, go to the FAQs (link to SGC Networks page).
 
