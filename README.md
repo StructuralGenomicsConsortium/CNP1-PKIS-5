@@ -22,8 +22,8 @@ Some humans involved in this CNP:
 Professor David Drewry, University of North Carolina Chapel Hill. Original discoverer of the molecule.  
 Professor Matthew Todd, University College London and Head of Chemistry Networks at the SGC.  
 Dr Santha Santhakumar, Project Manager at the Structural Genomics Consortium  
-Dr X, Company X, Industry Mentor for SGC-CNP1  
-XYZ is the "James Murray" Student Coordinator.
+Industry Mentor: vacant.    
+The Sir James Murray Student Coordinator: vacant.  
 
 
 
